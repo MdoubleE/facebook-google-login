@@ -1,0 +1,49 @@
+
+@import url('https://fonts.googleapis.com/css?family=Kanit|Montserrat+Subrayada|Roboto');
+
+body {
+    font-family: 'Roboto','Kanit', sans-serif;
+
+}
+b{
+	color: #FF7276;
+}
+h1{
+	color: #FF7276;
+	font-family: 'Montserrat Subrayada', sans-serif;
+}
+p {
+	color: #27AAE1;
+}
+.btn-logout {
+	width: 30px;
+	height: 20px;
+	border-radius:5px;
+	display:inline-block;
+	cursor:pointer;
+	color:#fff;
+	font-family:Arial;
+	font-size:20px;
+	font-weight:bold;
+	padding:13px 32px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #283966;
+	background-color:#e66868;
+}
+.btn-login {
+	width: 200px;
+	height: 20px;
+	border-radius:5px;
+	display:inline-block;
+	background-color:#ccc;
+	cursor:pointer;
+	color:#fff;
+	font-family:Arial;
+	font-size:20px;
+	font-weight:bold;
+	padding:13px 32px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #283966;
+	text-align: center;
+}
+
